@@ -1,0 +1,6 @@
+train: custom_dataset/train/images
+test: custom_dataset/test/images
+val: custom_dataset/valid/images
+
+nc: 16
+names: ['edible-nest swiftlet','Black-nest Swiftlet','Seychelles swiftlet','Cave swiftlet','Philippine swiftlet','Moluccan swiftlet','Mountain swiftlet','Australian swiftlet','Uniform swiftlet','Bare-legged swiftlet','Palau swiftlet','Guam swiftlet','Marquesan swiftlet','Indochinese swiftlet','White-Rumped Swift','edible-nest swiftlet']
